@@ -1,0 +1,13 @@
+../Core/Src/MPU6050.c:33:23:inv_row_2_scale	7
+../Core/Src/MPU6050.c:54:23:inv_orientation_matrix_to_scalar	1
+../Core/Src/MPU6050.c:76:12:run_self_test	2
+../Core/Src/MPU6050.c:105:5:MPU6050_DMP_init	12
+../Core/Src/MPU6050.c:183:5:MPU6050_DMP_Get_Date	3
+../Core/Src/MPU6050.c:214:5:MPU6050_Get_Gyro	3
+../Core/Src/MPU6050.c:240:5:MPU6050_Get_Accel	3
+../Core/Src/MPU6050.c:265:5:MPU6050_Get_RawGyro	2
+../Core/Src/MPU6050.c:283:5:MPU6050_Get_RawAccel	2
+../Core/Src/MPU6050.c:301:5:MPU6050_Get_Temperature	2
+../Core/Src/MPU6050.c:320:5:MPU6050_Get_Accel_Info	3
+../Core/Src/MPU6050.c:341:5:MPU6050_Set_Accel_FSR	6
+../Core/Src/MPU6050.c:356:5:MPU6050_Set_Gyro_FSR	6
